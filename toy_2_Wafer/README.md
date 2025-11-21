@@ -1,4 +1,4 @@
-## 프로젝트 2
+## 토이 프로젝트 Wafer_bin_map_data
 
 대학원 시절에 Wafer 데이터를 활용해서 프로젝트를 진행한적이 있으며 데이터에 대해서 간단한 실험만 진행 했으며 더 프로젝트를 진행 하고 싶어 토이 프로젝트를 하게 됨
 출처 : https://aiegg-travel.tistory.com/entry/Kaggle-WM-Dataset%EC%9C%BC%EB%A1%9C-Wafer-Map-Defect-Pattern-%EB%B6%84%EB%A5%98-%EC%8B%A4%EC%8A%B5 이 사이트를 확인하고 코드를 돌려 보았음('A Voting Ensemble Classifier for Wafer Map Defect Patterns Identification in Semiconductor Manufacturing'논문에서 나오는 방법론 인거 같다)
